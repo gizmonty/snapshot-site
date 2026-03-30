@@ -20,7 +20,7 @@ export default function Hero() {
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          <a href="https://snapshot-ashen-six.vercel.app" className="px-8 py-3.5 rounded-full bg-accent text-bg font-bold text-base hover:bg-accent/90 transition-all glow-sm hover:glow">
+          <a href="https://app.takesnapshot.com" className="px-8 py-3.5 rounded-full bg-accent text-bg font-bold text-base hover:bg-accent/90 transition-all glow-sm hover:glow">
             Try Snapshot Free →
           </a>
           <a href="#how-it-works" className="px-8 py-3.5 rounded-full border border-white/10 text-text-secondary font-medium text-base hover:border-white/20 hover:text-white transition-all">

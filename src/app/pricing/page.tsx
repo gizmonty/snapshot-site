@@ -18,7 +18,7 @@ const tiers = [
       "Mobile app (iOS)",
     ],
     cta: "Get Started Free",
-    href: "https://snapshot-ashen-six.vercel.app",
+    href: "https://app.takesnapshot.com",
     highlight: false,
   },
   {
@@ -40,7 +40,7 @@ const tiers = [
       "Data export (CSV/PDF)",
     ],
     cta: "Start Pro Trial",
-    href: "https://snapshot-ashen-six.vercel.app",
+    href: "https://app.takesnapshot.com",
     highlight: true,
   },
   {

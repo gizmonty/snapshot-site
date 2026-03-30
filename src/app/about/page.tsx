@@ -86,7 +86,7 @@ export default function AboutPage() {
           </div>
 
           <div className="mt-12 pt-8 border-t border-white/5">
-            <a href="https://snapshot-ashen-six.vercel.app" className="inline-flex px-8 py-3.5 rounded-full bg-accent text-bg font-bold text-base hover:bg-accent/90 transition-all glow-sm">
+            <a href="https://app.takesnapshot.com" className="inline-flex px-8 py-3.5 rounded-full bg-accent text-bg font-bold text-base hover:bg-accent/90 transition-all glow-sm">
               Try Snapshot Free →
             </a>
           </div>

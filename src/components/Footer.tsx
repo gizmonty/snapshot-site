@@ -13,7 +13,7 @@ export default function Footer() {
           <Link href="#features" className="hover:text-white transition-colors">Features</Link>
           <Link href="/pricing" className="hover:text-white transition-colors">Pricing</Link>
           <Link href="/about" className="hover:text-white transition-colors">About</Link>
-          <a href="https://snapshot-ashen-six.vercel.app" className="hover:text-accent transition-colors">Launch App</a>
+          <a href="https://app.takesnapshot.com" className="hover:text-accent transition-colors">Launch App</a>
         </div>
       </div>
     </footer>
